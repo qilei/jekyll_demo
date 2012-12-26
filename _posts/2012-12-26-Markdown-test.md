@@ -13,6 +13,8 @@ title: Markdown test
 	git push gh-pages                 〖上传,更新服务器〗 
  
 -a的作用
+
+ 
 更新blog方法：
 	
 	git commit -a -m 'first post'   〖更新本地git〗
