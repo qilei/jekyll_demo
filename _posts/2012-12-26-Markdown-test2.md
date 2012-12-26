@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Markdown test
+title: Markdown test 2
 ---
 
-# Markdown test
+# Markdown test 2
 20121226_1650
 
 上传新建blog文件（html或md格式）方法：
